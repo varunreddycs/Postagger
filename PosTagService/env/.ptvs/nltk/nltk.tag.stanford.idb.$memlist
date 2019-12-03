@@ -1,0 +1,17 @@
+StanfordPOSTagger
+java
+tempfile
+config_java
+StanfordTagger
+TaggerI
+find_jar
+PIPE
+_java_options
+abstractmethod
+_stanford_url
+find_file
+setup_module
+text_type
+warnings
+os
+StanfordNERTagger

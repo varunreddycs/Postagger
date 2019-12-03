@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PosTagService", "PosTagService\PosTagService.pyproj", "{032FD6D7-45F3-4135-B31E-59389D66F244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032FD6D7-45F3-4135-B31E-59389D66F244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032FD6D7-45F3-4135-B31E-59389D66F244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032FD6D7-45F3-4135-B31E-59389D66F244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032FD6D7-45F3-4135-B31E-59389D66F244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6F0E35-8F0D-4A1A-8464-CDC31B0DEF4F}
+	EndGlobalSection
+EndGlobal

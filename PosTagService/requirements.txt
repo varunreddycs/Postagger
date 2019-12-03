@@ -1,0 +1,3 @@
+nltk
+Flask<1
+flask-restful
